@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\bin\Debug\ShoppingCart_Entity.dll
+C:\Users\Dell\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\bin\Debug\ShoppingCart_Entity.pdb
+C:\Users\Dell\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\obj\Debug\ShoppingCart_Entity.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\obj\Debug\ShoppingCart_Entity.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\obj\Debug\ShoppingCart_Entity.dll
+C:\Users\Dell\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\obj\Debug\ShoppingCart_Entity.pdb
+C:\Users\Neosoft\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\bin\Debug\ShoppingCart_Entity.dll
+C:\Users\Neosoft\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\bin\Debug\ShoppingCart_Entity.pdb
+C:\Users\Neosoft\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\obj\Debug\ShoppingCart_Entity.dll
+C:\Users\Neosoft\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\obj\Debug\ShoppingCart_Entity.pdb
+C:\Users\Neosoft\Desktop\ShoppingCart_Tutorial\ShoppingCart_Web\ShoppingCart_Entity\obj\Debug\ShoppingCart_Entity.csprojResolveAssemblyReference.cache
